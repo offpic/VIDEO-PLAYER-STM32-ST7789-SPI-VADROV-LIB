@@ -1,3 +1,5 @@
+VIDEO PLAYER STM32 ST7789 SPI DMA VADROV LIB SD DMA
+
 https://www.youtube.com/shorts/E0uh-tIWtQw
 
 ffmpeg -i SpongeBob.mp4 -c:a mp3 -c:v mjpeg -s 320x240 -r 25 -q 15 video1.avi
